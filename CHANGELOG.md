@@ -27,11 +27,12 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 ### Changed
+- PETSc version 3.14.0
+- ARPACK compiled by SLEPc
 
 ### Deprecated
 
 ### Removed
-
 
 ### Fixed
 
